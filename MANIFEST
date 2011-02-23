@@ -1,0 +1,14 @@
+Changes
+MANIFEST
+META.yml # Will be created by "make dist"
+Makefile.PL
+README
+lib/Police/Dispatch.pm
+lib/Police/Dispatch/Call.pm
+lib/Police/Dispatch/Crew.pm
+lib/Police/Dispatch/CrewCall.pm
+lib/Police/Dispatch/Officer.pm
+t/00-load.t
+t/boilerplate.t
+t/pod-coverage.t
+t/pod.t

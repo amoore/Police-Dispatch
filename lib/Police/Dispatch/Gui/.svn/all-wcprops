@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/Police-Dispatch/lib/Police/Dispatch/Gui
+END
+UnitFrame.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Police-Dispatch/lib/Police/Dispatch/Gui/UnitFrame.pm
+END
+CallPanel.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Police-Dispatch/lib/Police/Dispatch/Gui/CallPanel.pm
+END
+MainFrame.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Police-Dispatch/lib/Police/Dispatch/Gui/MainFrame.pm
+END
+UnitPanel.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Police-Dispatch/lib/Police/Dispatch/Gui/UnitPanel.pm
+END

@@ -1,0 +1,103 @@
+8
+
+dir
+4
+https://dragnet.googlecode.com/svn/trunk/Police-Dispatch/t
+https://dragnet.googlecode.com/svn
+
+
+
+2007-08-08T02:29:54.029812Z
+2
+acmoore
+
+
+svn:special svn:externals svn:needs-lock
+
+officer.t
+file
+
+
+
+
+2007-07-07T21:02:10.000000Z
+1e570743228c1dd65b1fe4d440dcdbec
+2007-08-08T02:29:54.029812Z
+2
+acmoore
+
+crew.t
+file
+
+
+
+
+2007-07-07T21:02:27.000000Z
+27a619efdc355bb7fa9145048680685c
+2007-08-08T02:29:54.029812Z
+2
+acmoore
+
+pod.t
+file
+
+
+
+
+2007-07-05T18:35:13.000000Z
+e877230d7fd5899f3f86831738676a05
+2007-08-08T02:29:54.029812Z
+2
+acmoore
+
+boilerplate.t
+file
+
+
+
+
+2007-07-05T18:35:13.000000Z
+fe732d59c5860f6ad221f68dd0075cb0
+2007-08-08T02:29:54.029812Z
+2
+acmoore
+
+lib
+dir
+
+pod-coverage.t
+file
+
+
+
+
+2007-07-05T18:35:13.000000Z
+d673662db046c41ec4920b0d1ee32d70
+2007-08-08T02:29:54.029812Z
+2
+acmoore
+
+call.t
+file
+
+
+
+
+2007-07-08T19:51:36.000000Z
+6d1f89dd8c3be88ec3a8aec881a9ba77
+2007-08-08T02:29:54.029812Z
+2
+acmoore
+
+00-load.t
+file
+
+
+
+
+2007-07-06T22:03:06.000000Z
+4d1c60225dd4bc78e602bf8b59984bf5
+2007-08-08T02:29:54.029812Z
+2
+acmoore
+

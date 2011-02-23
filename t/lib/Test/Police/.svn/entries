@@ -1,0 +1,31 @@
+8
+
+dir
+4
+https://dragnet.googlecode.com/svn/trunk/Police-Dispatch/t/lib/Test/Police
+https://dragnet.googlecode.com/svn
+
+
+
+2007-08-08T02:29:54.029812Z
+2
+acmoore
+
+
+svn:special svn:externals svn:needs-lock
+
+Dispatch
+dir
+
+Dispatch.pm
+file
+
+
+
+
+2007-07-07T21:01:38.000000Z
+01f294393ec40d2b20760fd6a71acefe
+2007-08-08T02:29:54.029812Z
+2
+acmoore
+

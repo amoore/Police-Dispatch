@@ -1,0 +1,40 @@
+8
+
+dir
+4
+https://dragnet.googlecode.com/svn/trunk/Police-Dispatch/t/lib/Test/Police/Dispatch/Crew
+https://dragnet.googlecode.com/svn
+
+
+
+2007-08-08T02:29:54.029812Z
+2
+acmoore
+
+
+svn:special svn:externals svn:needs-lock
+
+FindOrCreate.pm
+file
+
+
+
+
+2007-07-07T21:04:27.000000Z
+985e5c772431355a7573998b669b57e8
+2007-08-08T02:29:54.029812Z
+2
+acmoore
+
+FetchAndStore.pm
+file
+
+
+
+
+2007-07-07T21:26:03.000000Z
+95288d92484c2ae9c71a4b7c336bae32
+2007-08-08T02:29:54.029812Z
+2
+acmoore
+
